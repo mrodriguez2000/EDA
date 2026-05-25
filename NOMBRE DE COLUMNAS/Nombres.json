@@ -1,0 +1,16 @@
+{
+    "age": "Edad_Paciente",
+    "sex": "Genero_Paciente",
+    "cp": "Tipo_Dolor_Pecho",
+    "trestbps": "Presion_Arterial_Reposo",
+    "chol": "Colesterol_Serico",
+    "fbs": "Azucar_Sangre_En_Ayunas",
+    "restecg": "Resultados_Electrocardiograma",
+    "thalach": "Frecuencia_Cardiaca_Maxima",
+    "exang": "Angina_Ejercicio",
+    "oldpeak": "Depresion_ST_Ejercicio",
+    "slope": "Pendiente_Segmento_ST",
+    "ca": "Numero_Vasos_Filtrados",
+    "thal": "Talasemia",
+    "target": "Enfermedad_Cardiaca"
+}
